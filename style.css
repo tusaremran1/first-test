@@ -1,0 +1,36 @@
+.home{
+    text-align: center;
+    display: inline-block
+
+}
+
+h1{
+    /* background-image: url(swi.jpg); */
+    text-align: center;
+    
+}
+
+h3{
+    -webkit-animation-direction: alternate;
+    text-decoration: underline black;
+    
+}
+p{
+    background-color: aqua;
+    /* background-image: url(home2.jpg); */
+    background-position: 100px;
+    padding: 30px;;
+    margin : 20px 20px 30px 40px c;
+    width: initial;
+    border: 50px;
+    display:block;
+   
+   
+ 
+}
+h2{
+    text-align: center;
+}
+#home{
+    text-align: left;
+}
