@@ -7,6 +7,8 @@
 h1{
     /* background-image: url(swi.jpg); */
     text-align: center;
+    text-shadow: 50px;
+    color: blue;
     
 }
 
